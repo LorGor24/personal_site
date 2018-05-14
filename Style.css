@@ -1,0 +1,49 @@
+body{
+    background-color: grey;
+}
+
+
+nav {
+    border: 1px solid black;
+    border-top: 1px dotted;
+    background-color: white;
+
+}
+
+img {
+    height: 650px;
+    width: 60%;
+    position: relative;
+    left: 250px;
+}
+
+ .article .article_heading{
+    font-size: 100px;
+    position: relative;
+    left: 250px;
+
+}
+
+
+li {
+  display: inline;
+
+
+
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 12px;
+  position: relative;
+  left: 250px
+}
+
+.button{
+        height: 100px;
+        width: 100px;
+        padding-left: 50%;
+        font-style: italic;
+        font-size: 18px;
+
+}
